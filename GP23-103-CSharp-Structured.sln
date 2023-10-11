@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3_2People", "P3_2People\P3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3_3OpenDoor", "P3_3OpenDoor\P3_3OpenDoor.csproj", "{232F9EFD-65A6-482C-9D92-21BB912A3F11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4Heap", "P4Heap\P4Heap.csproj", "{BB6DB825-95B9-4C7F-A911-43A31549ABC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{232F9EFD-65A6-482C-9D92-21BB912A3F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{232F9EFD-65A6-482C-9D92-21BB912A3F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{232F9EFD-65A6-482C-9D92-21BB912A3F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6DB825-95B9-4C7F-A911-43A31549ABC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6DB825-95B9-4C7F-A911-43A31549ABC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6DB825-95B9-4C7F-A911-43A31549ABC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6DB825-95B9-4C7F-A911-43A31549ABC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

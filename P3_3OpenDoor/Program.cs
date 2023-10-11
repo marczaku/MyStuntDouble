@@ -1,0 +1,13 @@
+﻿House redHouse = new House();
+House blueHouse = new House();
+Console.WriteLine($"Doors Open?");
+Console.WriteLine($"Red House: {redHouse.IsDoorOpen}");
+Console.WriteLine($"Blue House: {blueHouse.IsDoorOpen}");
+redHouse.OpenDoor();
+Console.WriteLine($"Doors Open?");
+Console.WriteLine($"Red House: {redHouse.IsDoorOpen}");
+Console.WriteLine($"Blue House: {blueHouse.IsDoorOpen}");
+blueHouse.OpenDoor();
+Console.WriteLine($"Doors Open?");
+Console.WriteLine($"Red House: {redHouse.IsDoorOpen}");
+Console.WriteLine($"Blue House: {blueHouse.IsDoorOpen}");

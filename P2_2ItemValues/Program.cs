@@ -4,7 +4,7 @@ Item[] items = new Item[3];
 
 for (var i = 0; i < items.Length; i++)
 {
-    items[i] = new Item();
+    items[i] = new Item(); // i = 2
 }
 
 items[0].goldValue = 100;

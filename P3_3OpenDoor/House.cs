@@ -1,5 +1,6 @@
 public class House
 {
+    public string Name;
     public bool IsDoorOpen;
 
     public void OpenDoor()
